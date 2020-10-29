@@ -1,9 +1,6 @@
 ### Hey guys, I'm Busaruba!
 
-<!--
-**Busaruba2011/Busaruba2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-My name is pronounced 'buz-a-rubber'. I like coding and game development. I got into it because I love gaming and decided to try and make my own games. I didn't publish them (exept 2 I don't update). The usernames I use are: Busaruba, busaruba, Busaruba2011, Busaruba2605 and busarubayo.
+<My name is pronounced 'buz-a-rubber'. I like coding and game development. I got into it because I love gaming and decided to try and make my own games. I didn't publish them (exept 2 I don't update). The usernames I use are: Busaruba, busaruba, Busaruba2011, Busaruba2605 and busarubayo.
 
 - 🔭 I’m currently working on lots of things.
 - 🌱 I’m currently learning C# and Unity
