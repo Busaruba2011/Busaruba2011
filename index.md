@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+---
+permalink: /index.html
+---
 
-You can use the [editor on GitHub](https://github.com/Busaruba2011/Busaruba2011/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Busaruba2011
 
-### Markdown
+Hey, I'm Busaruba2011 and I love coding!
+I'm currently learning lots of things. Some include: C#, Unity Game Engine, HTML and more!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### How I got into coding and game development
+I love gaming, and one day I thought I should make my own games. I got Unity and had a little play around. I made a karting game with the [Unity karting microgame](https://learn.unity.com/project/karting-template) but didn't publish it because it was rubbish.
+Then, another day, I decided to make my own programs. I messed with WinForms in Visual Studio, and thought 'I could make a to-do list app with the textboxes in WinForms!' And that's how it started for me.
 
-```markdown
-Syntax highlighted code block
+## Where you can find me
+Stack Exchange: @Busaruba2011
 
-# Header 1
-## Header 2
-### Header 3
+Unity: @Busaruba2011
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Busaruba2011/Busaruba2011/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+GitHub: @Busaruba2011
